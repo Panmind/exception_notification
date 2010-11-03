@@ -1,3 +1,7 @@
+= Purpose of this fork
+
+Do not escape exception e-mails text as HTML. Plain and simple.
+
 = Exception Notifier Plugin for Rails
 
 The Exception Notifier plugin provides a mailer object and a default set of
